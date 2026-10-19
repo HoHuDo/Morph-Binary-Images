@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+# keep results folder but ignore bulky outputs if needed
+# results/*.png
